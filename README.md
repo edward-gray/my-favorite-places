@@ -1,4 +1,4 @@
-# My Favorite Location
+# My Favorite Places
 Simple app that shows your location on the map with exact address and with a long press on map you can add it to your new favorite list.
 
 <div style="display: flex;">
